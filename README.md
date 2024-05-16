@@ -1,5 +1,6 @@
 ### 前端-孔祥斌
 
+
 ### 联系方式
 
 - 手机/微信：18519100092
@@ -8,17 +9,19 @@
 ### 个人信息
 
 - 孔祥斌/男/1995
-- 工作年限：5 年
+- 工作年限：7 年
 - 技术博客:http://blog.kongdf.com
 - Github：https://github.com/kongdf
+- 期望职位：资深前端工程师，前端架构师
 
 ---
 
 ### 个人优势
 
-- 七年前端开发经验，具备团队领导经验。 
-- 涉及多个领域 WebRTC、BIM、CRM、IM、AI 等。
-- 对技术有强烈兴趣，学习能力强，技术视野广阔，乐于不断学习新知识；
+- 七年前端开发经验，具备团队领导经验;
+- 主导上线多个大型 SaaS/web 应用及多终端项目;
+- 具有多个领域开发经验 WebRTC、BIM、CRM、IM、AI 等;
+- 对技术有强烈兴趣，学习能力强，技术视野广阔，乐于不断学习新知识;
 - 热爱开源分享，并坚持维护技术博客和开源项目;
 
 ---
@@ -26,10 +29,8 @@
 ### 技能清单
 
 - 开发框架：Vue/React/Svelte
-- 多终端应用：小程序/SSR/Electron /Tauri/鸿蒙 OS
-- 构建工具：Webpack/Vite/bun
-
-/WebRTC/Canvas/WebAssembly
+- 多终端应用：小程序/SSR/Electron/Tauri/鸿蒙
+- 构建工具：Webpack/Vite
 - 服务端：Node/Python/Rust
 
 ---
