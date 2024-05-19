@@ -1,14 +1,12 @@
 ## 前端-孔祥斌
 
-## 联系方式
-
-- 手机/微信：18519100092
-- Email：kxb51812@gmail.com
 
 ## 个人信息
 
 - 孔祥斌/男/1995
 - 工作年限：7 年
+- 手机/微信：18519100092
+- Email：kxb51812@gmail.com
 - 技术博客:http://blog.kongdf.com
 - Github：https://github.com/kongdf
 - 期望职位：资深前端工程师,前端架构师
