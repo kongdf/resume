@@ -95,7 +95,7 @@
 - 工作台 (web应用)
   - 项目地址：https://box.kongdf.com
   - 项目描述：在线工作台，集成了导航收藏、在线备忘录、节假日查询、Word/Excel预览、音视频格式转换、图片压缩、录像录屏、以及公众号自动回复管理等多项功能。
-  - 项目实现： 前端使用Vue3+Vite,服务端采用Express+Mysql;还有Nuxt的SSR版本;
+  - 项目实现： 前端使用Vue3+Vite,服务端采用Express+Mysql+Prisma;还有Nuxt的SSR版本;
 
 - JDfund （Rust桌面应用）
   - 项目地址：https://github.com/kongdf/JDfund
