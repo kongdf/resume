@@ -1,14 +1,29 @@
 ---
 layout: two-cols
-layoutClass: gap-16
+layoutClass: gap-10
 ---
 
-# Table of contents
+# 个人信息
 
-You can use the `Toc` component to generate a table of contents for your slides:
- 
+<img border="rounded" style="border-radius:50%;margin:0 auto;" src="https://static.kongdf.com/self.jpeg" width="100" alt="">
+
+<div style="margin-top:20px;">
+
+
+- 孔祥斌/男/1995
+- 工作年限：8 年
+- 手机/微信：18519100092
+- Email：kxb51812@gmail.com
+- 技术博客: http://blog.kongdf.com
+- Github: https://github.com/kongdf 
+- 在线简历: http://resume.kongdf.com
+
+</div>
 ::right::
 
-<Toc   minDepth="1" maxDepth="2"></Toc>
+# 目录
 
+  <Toc   minDepth="1" maxDepth="1"></Toc>
+
+ 
 ---
