@@ -1,5 +1,5 @@
 ---
-theme: seriph
+# theme: seriph 
 background: https://cover.sli.dev
 title: coderResume
 titleTemplate: '%s - 孔大夫'
