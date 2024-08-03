@@ -1,5 +1,5 @@
 ---
-# theme: seriph 
+# theme: penguin 
 background: https://cover.sli.dev
 title: coderResume
 titleTemplate: '%s - 孔大夫'
@@ -14,6 +14,8 @@ drawings:
 transition: slide-left 
 mdc: true
 monaco: 'dev'
+fonts :
+  size:10px
 ---
 
 # coderResume
