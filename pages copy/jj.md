@@ -4,7 +4,7 @@ layoutClass: gap-10
 title: 个人优势&技术栈
 ---
 
-# 个人优势
+## 个人优势
 
 <div style="line-height:2.5rem;">
 <p>🧑‍💻 八年前端开发经验,包含三年的前端带队经验。</p>
@@ -20,7 +20,7 @@ title: 个人优势&技术栈
 
 ::right::
 
-# 技术栈
+## 技术栈
 
 - 前端框架:主攻Vue3,熟练使用React、Svelte;
 - 多终端：Taro、uni-app、Tauri;
@@ -36,3 +36,5 @@ title: 个人优势&技术栈
 - SSR:Next,SSR;
 - 构建工具:Bun,rsbuild,Farm;
 - 多终端:Electron、鸿蒙os;
+
+---

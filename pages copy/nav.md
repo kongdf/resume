@@ -23,6 +23,6 @@ layoutClass: gap-10
 
 # 目录
 
-  <Toc   minDepth="1" maxDepth="2"></Toc>
+  <Toc   minDepth="1" maxDepth="1"></Toc>
 
 ---
