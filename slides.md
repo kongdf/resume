@@ -47,15 +47,15 @@ fonts: size:10px
   <!-- <Toc   minDepth="1" maxDepth="2"></Toc> -->
   <ol>
 
-  <li class="rounded cursor-pointer" hover="bg-white bg-opacity-10" @click="$slidev.nav.next(2)">个人优势与技术栈 <carbon:arrow-right class="inline"/></li>
- <li class="rounded cursor-pointer" hover="bg-white bg-opacity-10" @click="$slidev.nav.next(3)">公司经历 <carbon:arrow-right class="inline"/>
+  <li class="rounded cursor-pointer" hover="bg-white bg-opacity-10" @click="$slidev.nav.next()">个人优势与技术栈 <carbon:arrow-right class="inline"/></li>
+ <li class="rounded cursor-pointer" hover="bg-white bg-opacity-10" @click="$slidev.nav.go(3) ">公司经历 <carbon:arrow-right class="inline"/>
     <ol>
-      <li class="rounded cursor-pointer" hover="bg-white bg-opacity-10" @click="$slidev.nav.next(3)">河北御芝林 (2021年11月 ~ 至今)<carbon:arrow-right class="inline"/></li>
-      <li class="rounded cursor-pointer" hover="bg-white bg-opacity-10" @click="$slidev.nav.next(4)">北京鸿业云建 (2021年2月 ~ 2021年10月)<carbon:arrow-right class="inline"/></li>
-      <li class="rounded cursor-pointer" hover="bg-white bg-opacity-10" @click="$slidev.nav.next(5)">容联云通讯 (~ 2021年)<carbon:arrow-right class="inline"/></li>  
+      <li class="rounded cursor-pointer" hover="bg-white bg-opacity-10" @click="$slidev.nav.go(3)">河北御芝林 (2021年11月 ~ 至今)<carbon:arrow-right class="inline"/></li>
+      <li class="rounded cursor-pointer" hover="bg-white bg-opacity-10" @click="$slidev.nav.go(4)">北京鸿业云建 (2021年2月 ~ 2021年10月)<carbon:arrow-right class="inline"/></li>
+      <li class="rounded cursor-pointer" hover="bg-white bg-opacity-10" @click="$slidev.nav.go(5)">容联云通讯 (~ 2021年)<carbon:arrow-right class="inline"/></li>  
   </ol>
  </li>
-  <li class="rounded cursor-pointer" hover="bg-white bg-opacity-10" @click="$slidev.nav.next(5)">项目经验 <carbon:arrow-right class="inline"/></li>
+  <li class="rounded cursor-pointer" hover="bg-white bg-opacity-10" @click="$slidev.nav.go(6)">项目经验 <carbon:arrow-right class="inline"/></li>
   <li>开源作品 <carbon:arrow-right class="inline"/></li>
   </ol>
 
@@ -66,32 +66,8 @@ fonts: size:10px
 
 <div style="clear:both;"> </div>
 <p style="margin-top:50px;">💻 ⬅️➡️ 翻页 /🖱️左下角</p>
- <!-- <span style="margin-top:50px;"></span> -->
-
-<!-- # coderResume -->
-
-
-
-<!-- <span @click="$slidev.nav.next" class="rounded cursor-pointer" hover="bg-white bg-opacity-10">
-查看目录 <carbon:arrow-right class="inline"/>
-</span> -->
-
-
-
-
 
 </div>
-
-<!-- <div class="abs-br m-6 flex gap-2">
-  <button @click="$slidev.nav.openInEditor()" title="Open in Editor" class="text-xl slidev-icon-btn opacity-50 !border-none !hover:text-white">
-    <carbon:edit />
-  </button>
-  <span>💻 ⬅️➡️ 翻页 /🖱️左下角</span>
-  <a href="https://github.com/kongdf" target="_blank" alt="GitHub" title="打开GitHub"
-    class="text-xl slidev-icon-btn opacity-50 !border-none !hover:text-white">
-    <carbon-logo-github />
-  </a>
-</div>  -->
 
 ---
 src: ./pages/jj.md
