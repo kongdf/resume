@@ -52,7 +52,7 @@ fonts: size:10px
     <ol>
       <li class="rounded cursor-pointer" hover="bg-white bg-opacity-10" @click="$slidev.nav.next(3)">河北御芝林 (2021年11月 ~ 至今)<carbon:arrow-right class="inline"/></li>
       <li class="rounded cursor-pointer" hover="bg-white bg-opacity-10" @click="$slidev.nav.next(4)">北京鸿业云建 (2021年2月 ~ 2021年10月)<carbon:arrow-right class="inline"/></li>
-      <li class="rounded cursor-pointer" hover="bg-white bg-opacity-10" @click="$slidev.nav.next(5)">容联云通讯 (2018年12月 ~ 2020年8月)<carbon:arrow-right class="inline"/></li>  
+      <li class="rounded cursor-pointer" hover="bg-white bg-opacity-10" @click="$slidev.nav.next(5)">容联云通讯 (~ 2021年)<carbon:arrow-right class="inline"/></li>  
   </ol>
  </li>
   <li class="rounded cursor-pointer" hover="bg-white bg-opacity-10" @click="$slidev.nav.next(5)">项目经验 <carbon:arrow-right class="inline"/></li>
@@ -99,4 +99,8 @@ src: ./pages/jj.md
 
 ---
 src: ./pages/gsjl.md
+---
+
+---
+src: ./pages/xmjy.md
 ---
