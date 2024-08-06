@@ -16,7 +16,7 @@ mdc: true
 monaco: "dev" 
 htmlAttrs:
   dir: ltr
-  lang: zh
+  lang: zh-cn
 ---
 
 <div >
