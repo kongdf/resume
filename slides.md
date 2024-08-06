@@ -13,8 +13,10 @@ drawings:
 # slide transition: https://sli.dev/guide/animations#slide-transitions
 transition: slide-left
 mdc: true
-monaco: "dev"
-fonts: size:10px
+monaco: "dev" 
+htmlAttrs:
+  dir: ltr
+  lang: en
 ---
 
 <div >
