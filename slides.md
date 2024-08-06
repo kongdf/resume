@@ -50,15 +50,15 @@ htmlAttrs:
   <ol>
 
   <li class="rounded cursor-pointer" hover="bg-white bg-opacity-10" @click="$slidev.nav.next()">个人优势与技术栈 <carbon:arrow-right class="inline"/></li>
- <li class="rounded cursor-pointer" hover="bg-white bg-opacity-10" @click="$slidev.nav.go(3) ">公司经历 <carbon:arrow-right class="inline"/>
+ <li class="rounded cursor-pointer" hover="bg-white bg-opacity-10" @click.stop="$slidev.nav.go(3) ">公司经历 <carbon:arrow-right class="inline"/>
     <ol>
-      <li class="rounded cursor-pointer" hover="bg-white bg-opacity-10" @click="$slidev.nav.go(3)">河北御芝林 (2021年11月 ~ 至今)<carbon:arrow-right class="inline"/></li>
-      <li class="rounded cursor-pointer" hover="bg-white bg-opacity-10" @click="$slidev.nav.go(4)">北京鸿业云建 (2021年2月 ~ 2021年10月)<carbon:arrow-right class="inline"/></li>
-      <li class="rounded cursor-pointer" hover="bg-white bg-opacity-10" @click="$slidev.nav.go(5)">容联云通讯 (~ 2021年)<carbon:arrow-right class="inline"/></li>  
+      <li class="rounded cursor-pointer" hover="bg-white bg-opacity-10" @click.stop="$slidev.nav.go(3)">河北御芝林 (2021年11月 ~ 至今)<carbon:arrow-right class="inline"/></li>
+      <li class="rounded cursor-pointer" hover="bg-white bg-opacity-10" @click.stop="$slidev.nav.go(4)">北京鸿业云建 (2021年2月 ~ 2021年10月)<carbon:arrow-right class="inline"/></li>
+      <li class="rounded cursor-pointer" hover="bg-white bg-opacity-10" @click.stop="$slidev.nav.go(5)">容联云通讯 (~ 2021年)<carbon:arrow-right class="inline"/></li>  
   </ol>
  </li>
   <li class="rounded cursor-pointer" hover="bg-white bg-opacity-10" @click="$slidev.nav.go(6)">项目经验 <carbon:arrow-right class="inline"/></li>
-  <li>开源作品 <carbon:arrow-right class="inline"/></li>
+  <li class="rounded cursor-pointer" hover="bg-white bg-opacity-10" @click="$slidev.nav.go(6)" >开源项目与个人作品 <carbon:arrow-right class="inline"/></li>
   </ol>
 
  

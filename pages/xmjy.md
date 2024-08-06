@@ -1,18 +1,26 @@
-# 项目经验与作品
+# 项目经验
 
 <div>
     <ol>
         <li class="rounded cursor-pointer"  hover="bg-white bg-opacity-10" @click="$slidev.nav.go(7)">
-            御芝林-CRM电商系统 (web&小程序)
+            御芝林-CRM电商系统 (web&小程序) <carbon:arrow-right class="inline"/>
         </li>
         <li class="rounded cursor-pointer"  hover="bg-white bg-opacity-10" @click="$slidev.nav.go(8)">
-            云建-BIM管理系统 (web&小程序)
+            云建-BIM管理系统 (web&小程序) <carbon:arrow-right class="inline"/>
         </li>
         <li class="rounded cursor-pointer" hover="bg-white bg-opacity-10" @click="$slidev.nav.go(9)">
-            容联-容视视频会议 
+            容联-容视视频会议 (web&小程序) <carbon:arrow-right class="inline"/>
+        </li>
+         <li class="rounded cursor-pointer" hover="bg-white bg-opacity-10" @click="$slidev.nav.go(9)">
+            逸金科技-卡易还 (移动端) <carbon:arrow-right class="inline"/>
         </li>
     </ol>
 </div>
+
+
+# 个人作品
+
+
 
 ---
 
@@ -47,7 +55,7 @@
     - 集成蓝牙测距仪量设备，为工程人员提供便捷的测量和量房操作。
 - 鸿蒙 OS 智能手表应用
   - 项目描述：国内首款疲劳检测预测系统;通过对接华为 Health Kit 获得健康数据并进行分析预测;
-  - 项目实现： 通过 JS FA 开发,实现了量表自测,打卡,睡眠检测等功能;
+  - 项目实现：通过 JS FA 开发,实现了量表自测,打卡,睡眠检测等功能;
  
 ---
 
@@ -59,3 +67,8 @@
   - 工作业绩：
     - 通过优化重构,将原始打包文件从30+MB精简至仅4MB，同时引入CDN加速，将页面加载速度优化至仅3秒内。
     - 重写语音激励算法，有效节省了60%的带宽成本;
+- 小程序:
+  - 工作业绩：
+    - 优化小程序的启动速度，从原来的 5 秒缩短至 2 秒以内，提升了用户的使用效率。
+    - 针对移动端网络不稳定的情况，优化了视频流的自适应码率调整策略，减少了会议中断的情况发生，保证了会议的流畅性。
+    - 实现了小程序与企业微信的集成，方便企业用户在企业微信中直接发起和参与视频会议，提高了工作协同效率。
