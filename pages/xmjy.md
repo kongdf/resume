@@ -3,7 +3,7 @@
 <div>
     <ol>
         <li class="rounded cursor-pointer"  hover="bg-white bg-opacity-10" @click="$slidev.nav.go(7)">
-            御芝林-CRM电商系统 (web&小程序) <carbon:arrow-right class="inline"/>
+            御芝林-CRM电销电商系统 (web&小程序) <carbon:arrow-right class="inline"/>
         </li>
         <li class="rounded cursor-pointer"  hover="bg-white bg-opacity-10" @click="$slidev.nav.go(8)">
             云建-BIM管理系统 (web&小程序) <carbon:arrow-right class="inline"/>
@@ -20,7 +20,22 @@
 
 # 个人作品
 
-
+<div>
+    <ol>
+        <li class="rounded cursor-pointer"  hover="bg-white bg-opacity-10" @click="$slidev.nav.go(7)">
+           孔大夫在线工具箱（全栈） <carbon:arrow-right class="inline"/>
+        </li>
+        <li class="rounded cursor-pointer"  hover="bg-white bg-opacity-10" @click="$slidev.nav.go(8)">
+            我做个艺术家 (小程序&公众号) <carbon:arrow-right class="inline"/>
+        </li>
+        <li class="rounded cursor-pointer" hover="bg-white bg-opacity-10" @click="$slidev.nav.go(9)">
+            FormatConversion (桌面端) <carbon:arrow-right class="inline"/>
+        </li>
+         <li class="rounded cursor-pointer" hover="bg-white bg-opacity-10" @click="$slidev.nav.go(9)">
+            KDM (webrtc开源库) <carbon:arrow-right class="inline"/>
+        </li>
+    </ol>
+</div>
 
 ---
 
