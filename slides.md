@@ -9,14 +9,24 @@ class: text-center
 highlighter: shiki
 # https://sli.dev/guide/drawing
 drawings:
+  enabled: true
   persist: false
+  presenterOnly: false
+  syncAll: true
+persist: false
 # slide transition: https://sli.dev/guide/animations#slide-transitions
 transition: slide-left
 mdc: true
-monaco: "dev" 
+monaco: false 
+record: false
+colorSchema: dark
+selectable: true
+presenter: false
 htmlAttrs:
   dir: ltr
   lang: zh-cn
+
+ 
 ---
 
 <div >
