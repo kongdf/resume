@@ -3,7 +3,7 @@
 <div>
     <ol>
       <li class="rounded cursor-pointer"  hover="bg-white bg-opacity-10" @click="$slidev.nav.go(7)">
-            御芝林-CRM电销电商系统 (web&小程序) <carbon:arrow-right class="inline"/>
+            CRM电销电商系统 (web&小程序) <carbon:arrow-right class="inline"/>
       </li>
       <li class="rounded cursor-pointer"  hover="bg-white bg-opacity-10" @click="$slidev.nav.go(8)">
             云建-BIM管理系统 (web&小程序) <carbon:arrow-right class="inline"/>
@@ -45,7 +45,7 @@
 
 ---
 
-# 御芝林CRM电商系统
+# CRM电商系统
 
 - 技术栈：Vue3、uni-app;
 - 项目描述：客户、销售、订单、回款、售后、报表一体化电销管理软件;

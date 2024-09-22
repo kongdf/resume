@@ -62,7 +62,7 @@ htmlAttrs:
   <li class="rounded cursor-pointer" hover="bg-white bg-opacity-10" @click="$slidev.nav.next()">个人优势与技术栈 <carbon:arrow-right class="inline"/></li>
  <li class="rounded cursor-pointer" hover="bg-white bg-opacity-10" @click.stop="$slidev.nav.go(3) ">公司经历 <carbon:arrow-right class="inline"/>
     <ol>
-      <li class="rounded cursor-pointer" hover="bg-white bg-opacity-10" @click.stop="$slidev.nav.go(3)">河北御芝林 (2021年11月 ~ 至今)<carbon:arrow-right class="inline"/></li>
+      <li class="rounded cursor-pointer" hover="bg-white bg-opacity-10" @click.stop="$slidev.nav.go(3)">某药企 (2021年11月 ~ 至今)<carbon:arrow-right class="inline"/></li>
       <li class="rounded cursor-pointer" hover="bg-white bg-opacity-10" @click.stop="$slidev.nav.go(4)">北京鸿业云建 (2021年2月 ~ 2021年10月)<carbon:arrow-right class="inline"/></li>
       <li class="rounded cursor-pointer" hover="bg-white bg-opacity-10" @click.stop="$slidev.nav.go(5)">容联云通讯 (2018 年 12 月~ 2021年)<carbon:arrow-right class="inline"/></li>  
         <li class="rounded cursor-pointer" hover="bg-white bg-opacity-10" @click.stop="$slidev.nav.go(5)">更早之前 (2016 年 10 月~ 2018年)<carbon:arrow-right class="inline"/></li>  
