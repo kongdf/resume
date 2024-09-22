@@ -1,6 +1,6 @@
 ---
 theme: seriph
-background: https://cover.sli.dev
+background: https://w.wallhaven.cc/full/ex/wallhaven-exm8xk.jpg
 title: 孔大夫的在线简历
 titleTemplate: "%s - 孔大夫"
 info: false
