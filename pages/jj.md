@@ -7,8 +7,7 @@ title: 个人优势&技术栈
 # 个人优势
 
 <div style="line-height:2.5rem;">
-<p>🧑‍💻 八年前端开发经验,包含三年的前端带队经验。</p>
- 
+<p>🧑‍💻 八年前端开发经验,包含三年的前端带队经验。</p> 
 <p>😎 擅长项目重构,优化架构与设计模式。</p>
 <p>💻 主攻 Vue3,同时熟练掌握 React 框架。</p>
 <p>📱 跨终端经验丰富,小程序、移动端、PC 端等。</p>
@@ -23,7 +22,7 @@ title: 个人优势&技术栈
 # 技术栈
 
 - 前端框架:主攻Vue3,熟练使用React、Svelte;
-- 多终端：Taro、uni-app、Tauri;
+- 多终端：Taro、uni-app、Tauri、vue-mini;
 - Node:Express、Koa、Nuxt;
 - 数据库相关:MySQL、MongoDB;
 - 服务器相关:Nginx,PM2;
